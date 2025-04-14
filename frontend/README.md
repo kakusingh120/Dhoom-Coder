@@ -1,12 +1,61 @@
-# React + Vite
+# ⚖️ Lawgic
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Lawgic** is a responsive and interactive web application built using React. It offers a clean UI, organized component-based structure, and seamless routing for smooth navigation across different sections.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🔧 Built with React components
+- 📁 Page-to-page navigation using React Router
+- 📱 Fully responsive for all screen sizes
+- ✨ Interactive and modern UI for an engaging user experience
+- 🧩 Clean code structure and modular design
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js, JSX, CSS
+- **Routing:** React Router DOM
+- **Responsive Design:** CSS Flexbox/Grid or Media Queries *(based on your setup)*
+- *(Add any additional tools or libraries you used, like Tailwind, Bootstrap, etc.)*
+
+---
+
+## 📸 Screenshots
+
+*(Add screenshots here once you have them)*  
+You can use the following Markdown to add them:
+
+```markdown
+![Home Page](./src/assets/logo/ss1.png)
+![Dashboard](./src/assets/logo/ss2.png)
+
+
+## Clone the repo:
+```bash
+git clone git@github.com:kakusingh120/Dhoom-Coder.git
+cd Dhoom-coder
+```
+
+
+## Install dependencies:
+```bash
+npm install
+```
+
+## Start the development server:
+```bash
+npm run dev
+```
+
+
+## 📌 Future Improvements
+- Adding backend integration
+
+- Implementing authentication and user roles
+
+- Enhancing animations and transitions
+
+- Dark mode toggle

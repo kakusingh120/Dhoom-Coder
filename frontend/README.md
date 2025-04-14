@@ -29,8 +29,9 @@
 You can use the following Markdown to add them:
 
 ```markdown
-![Home Page](./src/assets/logo/ss1.png)
-![Dashboard](./src/assets/logo/ss2.png)
+![Home Page](screenshots/ss1.png)
+![Dashboard](screenshots/ss2.png)
+```
 
 
 ## Clone the repo:
